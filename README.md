@@ -1,7 +1,7 @@
 > **This fork is to remove the datrie dependency, which in newer versions of Python (3.8+) causes errors when installing and compiling the library.
 > The functionality of the script is preserved.**
 
-*@Anatoliy*
+*- Anatoliy (TheQmaks)*
 
 # Project REGULATOR: Automated learning of regexes for DNS discovery
 
